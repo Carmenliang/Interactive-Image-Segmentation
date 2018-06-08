@@ -1,0 +1,5 @@
+nibabel>=2.1.0
+numpy>=1.12
+scipy>=0.18
+matplotlib
+Pillow
