@@ -1,10 +1,15 @@
 # CS 168 Spring 2018 Class Project
 
-In this class project, we compared the level-set method and deep learning for the task of human lung segmentation and identify the strengths and weaknesses of each technique. We have created an interactive tool, based the morphological level-set method, which can be used for any medical image segmentation applications. :
+In this class project, we compared the level-set method and deep learning for the task of human lung segmentation and identify the strengths and weaknesses of each technique. 
+
+We have created an interactive tool, based the morphological level-set method, which can be used for any medical image segmentation applications. Here's the demo for lung segmentaion: 
+
+
+![alt text](https://github.com/ahatamiz/CS168_Project/blob/master/ezgif.com-crop.gif)
 
 
 
-The following entails a complete guide for how to use this tool: 
+In order to use the interactive segmentation tool, first intall all the requirments and then initiate he GUI accordingly as explaind: 
 
 # Installation 
 
@@ -13,6 +18,10 @@ pip install -r requirements-gpu.txt
 # Command-Line 
 
 python gui.py
+
+# General Instructions 
+
+The interactive tool accepts an input image file in the format of Nifty (nii.gz). The user should select a point inside the area of interest to be segmented and click on the run button for the segmentation process to start. The output of saving the segmentation can be specified in GUI.
 
 
 
