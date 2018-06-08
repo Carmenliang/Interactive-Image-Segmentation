@@ -1,5 +1,7 @@
 # CS 168 Spring 2018 Class Project
 
+# Ali Hatamizadeh , Sean Kim
+
 In this class project, we compared the level-set method and deep learning for the task of human lung segmentation and identify the strengths and weaknesses of each technique. 
 
 We have created an interactive tool, based the morphological level-set method, which can be used for any medical image segmentation applications. Here's the demo for lung segmentaion: 
