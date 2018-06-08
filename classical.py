@@ -14,7 +14,7 @@ from scipy.ndimage import binary_dilation, binary_erosion, gaussian_filter, gaus
 ## Credit to Morphological Operator Paper
 
 ### Default Paramaeters for running as script (Normally get User Input from the API)
-IMG_PATH ='case.nii.gz' ## This is where the user needs to identify the path to image
+#IMG_PATH ='case.nii.gz' ## This is where the user needs to identify the path to image
 X_IMG=200
 Y_IMG=198
 ITERATIONS=400
