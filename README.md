@@ -4,7 +4,7 @@
 
 In this class project, we compared the level-set method and deep learning for the task of human lung segmentation and identify the strengths and weaknesses of each technique. 
 
-We have created an interactive tool, based the morphological level-set method, which can be used for any medical image segmentation applications. Here's the demo for lung segmentaion: 
+We have created an interactive tool, which is based on the morphological level-set method, than can be used for any medical image segmentation application. Here's the demo for lung segmentaion: 
 
 
 ![alt text](https://github.com/ahatamiz/CS168_Project/blob/master/ezgif.com-crop.gif)
