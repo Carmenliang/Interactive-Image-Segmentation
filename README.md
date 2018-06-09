@@ -15,7 +15,7 @@ In order to use the interactive segmentation tool, first intall all the requirme
 
 # Installation 
 
-pip install -r requirements-gpu.txt
+pip install -r requirements.txt
 
 # Command-Line 
 
