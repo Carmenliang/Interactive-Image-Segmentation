@@ -1,4 +1,4 @@
-# Interactive Lung Segmentation Tool
+# Interactive Image Segmentation Tool
 
 
 This is an interative tool for image segmentation, including medical applications. It is based on a variant of morphological level-set method. Here's the demo for lung segmentaion: 
