@@ -8,7 +8,7 @@ This is an interative tool for image segmentation, including medical application
 
 
 
-In order to use the interactive segmentation tool, first intall all the requirments and then initiate he GUI accordingly as explaind: 
+In order to use the interactive segmentation tool, first simply install all the requirments and then initiate he GUI accordingly as explaind: 
 
 # Installation 
 
