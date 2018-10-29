@@ -1,4 +1,0 @@
-model_checkpoint_path: "/mnt/dfs/aliha/168-segmentation/experiments/168_unet1/snapshots/168_unet1_iter_1000"
-all_model_checkpoint_paths: "/mnt/dfs/aliha/168-segmentation/experiments/168_unet1/snapshots/168_unet1_iter_700"
-all_model_checkpoint_paths: "/mnt/dfs/aliha/168-segmentation/experiments/168_unet1/snapshots/168_unet1_iter_800"
-all_model_checkpoint_paths: "/mnt/dfs/aliha/168-segmentation/experiments/168_unet1/snapshots/168_unet1_iter_1000"
